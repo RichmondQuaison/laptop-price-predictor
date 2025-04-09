@@ -2,7 +2,7 @@
 
 A powerful and interactive web application built with **Streamlit** that predicts laptop prices in GBP based on various input features. This tool leverages machine learning to estimate the market value of laptops using attributes such as brand, CPU, GPU, RAM, storage, and more.
 
-![App Screenshot]('/Users/richmondquaison/Desktop/laptop app screen.jpeg')
+![App Screenshot]('screenshots/laptop_app_screen.jpeg')
 
 ---
 
